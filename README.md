@@ -44,5 +44,7 @@ public class DaysInMonth {
         return (year % 4 == 0 && year % 100 != 0) || (year % 400 == 0);
     }
 }
-# Output
+
 ```
+# Output
+![Screenshot (67)](https://github.com/21002624/EX-3-Java-program-to-fins-the-number-of-day-in-a-month/assets/113762183/74295840-f99a-4769-b403-c2e3a254b1e3)
